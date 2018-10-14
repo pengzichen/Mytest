@@ -1,0 +1,9 @@
+0:0:0:0:0:0:0:1 - - [13/Oct/2018:23:56:12 +0800] "GET / HTTP/1.1" 302 - http-bio-80-exec-1 75
+0:0:0:0:0:0:0:1 - - [13/Oct/2018:23:56:13 +0800] "GET /login.jsp HTTP/1.1" 200 2507 http-bio-80-exec-3 803
+0:0:0:0:0:0:0:1 - - [13/Oct/2018:23:56:19 +0800] "POST /login.do HTTP/1.1" 200 12546 http-bio-80-exec-4 972
+0:0:0:0:0:0:0:1 - - [13/Oct/2018:23:56:22 +0800] "GET /product/findAll.do HTTP/1.1" 200 35936 http-bio-80-exec-6 392
+0:0:0:0:0:0:0:1 - - [13/Oct/2018:23:56:23 +0800] "GET /orders/findAll.do?page=1&size=5 HTTP/1.1" 200 23033 http-bio-80-exec-7 216
+0:0:0:0:0:0:0:1 - - [13/Oct/2018:23:56:25 +0800] "GET /user/findAll.do HTTP/1.1" 200 16301 http-bio-80-exec-8 148
+0:0:0:0:0:0:0:1 - - [13/Oct/2018:23:56:26 +0800] "GET /role/findAll.do HTTP/1.1" 200 16488 http-bio-80-exec-9 137
+0:0:0:0:0:0:0:1 - - [13/Oct/2018:23:56:29 +0800] "GET /permission/findAll.do HTTP/1.1" 200 15495 http-bio-80-exec-10 129
+0:0:0:0:0:0:0:1 - - [13/Oct/2018:23:56:30 +0800] "GET /sysLog/findAll.do HTTP/1.1" 200 21355 http-bio-80-exec-10 126

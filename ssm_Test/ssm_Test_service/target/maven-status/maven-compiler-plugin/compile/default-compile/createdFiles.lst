@@ -1,0 +1,12 @@
+cn\itheima\service\UserService.class
+cn\itheima\service\impl\OrdersServiceImp.class
+cn\itheima\service\impl\SysLogServiceImp.class
+cn\itheima\service\RoleService.class
+cn\itheima\service\impl\UserServiceImp.class
+cn\itheima\service\impl\RoleServiceImp.class
+cn\itheima\service\OrdersService.class
+cn\itheima\service\impl\ProductServiceImp.class
+cn\itheima\service\ProductService.class
+cn\itheima\service\SysLogService.class
+cn\itheima\service\impl\PermissionServiceImp.class
+cn\itheima\service\PermissionService.class

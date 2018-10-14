@@ -1,0 +1,7 @@
+cn\itheima\web\OrdersWeb.class
+cn\itheima\web\RoleWeb.class
+cn\itheima\web\UserWeb.class
+cn\itheima\web\LogAop.class
+cn\itheima\web\ProductWeb.class
+cn\itheima\web\sysLogWeb.class
+cn\itheima\web\PermissionWeb.class

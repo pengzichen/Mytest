@@ -1,0 +1,8 @@
+cn\itheima\domain\Orders.class
+cn\itheima\domain\Permission.class
+cn\itheima\domain\Role.class
+cn\itheima\domain\UserInfo.class
+cn\itheima\domain\Member.class
+cn\itheima\domain\SysLog.class
+cn\itheima\domain\product.class
+cn\itheima\domain\Traveller.class
